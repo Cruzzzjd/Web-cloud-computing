@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    text-align: center;
+    margin: 0;
+    padding: 50px;
+}
+
+.perfil {
+    background-color: white;
+    width: 400px;
+    margin: auto;
+    padding: 30px;
+    border-radius: 15px;
+}
+
+.perfil img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+h1 {
+    color: black;
+}
+
+h2 {
+    color: #555;
+}
+
+p {
+    color: #666;
+}
